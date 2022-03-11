@@ -1,0 +1,6 @@
+output
+.output
+.DS_Store
+research
+platforms/xtensa-lx106-elf/bin/build/upgrade
+
